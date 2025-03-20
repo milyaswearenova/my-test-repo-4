@@ -1,0 +1,8 @@
+{
+  "name": "my-test-repo-4",
+  "version": "1.0.0",
+  "description": "A test repository created via flow",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
